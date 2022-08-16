@@ -1,0 +1,31 @@
+Kekurangan pada CSS 
+-tidak ada variable 
+-tidak ada function 
+-tidak ada modularisasi 
+-tidak bisa melakukan operasi & logika pemrograman 
+-banyak duplikasi kode 
+
+Solusi dari Pre Processor 
+-Variable 
+-Mixin 
+-Import & Uses 
+-Operator & Built-in function 
+-Nested CSS 
+
+Alasan Menggunakan SASS 
+-Mempermudah penulisan 
+-Mempermudah pengelolaan 
+-Memiliki banyak fungsi built-in 
+-Kita dapat membuat fungsi sendiri 
+-Kita dapat memodifikasi framework CSS (cth: Bootstrap / Materialize) 
+-Bnayak perusahaan menggunakan SASS
+
+Instalasi compiler SASS 
+-Aplikasi 
+-Command Line 
+-VSCode Extension
+
+Alasan tidak menggunakan SASS 
+-Banyak fitur SASS yang sekarang sudah dimiliki oleh CSS 
+-Tidak untuk project kecil 
+-Styled Components / CSS in JS
