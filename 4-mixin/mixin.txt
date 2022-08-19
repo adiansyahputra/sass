@@ -1,0 +1,5 @@
+Mixin 
+Kumpulan style yang dapat kita gunakan berulang-ulang 
+
+@mixin: membuat
+@include: memanggil
